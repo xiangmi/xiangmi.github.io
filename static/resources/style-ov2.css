@@ -1,0 +1,230 @@
+.x-tab-bar-default {
+  background-color: #1bbc9c;
+}
+.x-box-scroller-tab-bar-default {
+  background-color: #1bbc9c;
+}
+.x-tree-arrows .x-tree-expander {
+  font-size: 16px;
+  font-family: FontAwesome;
+  color: #1bbc9c;
+}
+.x-tree-arrows .x-grid-tree-node-expanded .x-tree-expander {
+  font-size: 16px;
+  font-family: FontAwesome;
+  color: #1bbc9c;
+}
+.x-tree-elbow-plus,
+.x-tree-elbow-end-plus {
+  font-size: 14px;
+  font-family: FontAwesome;
+  color: #1bbc9c;
+}
+.x-grid-tree-node-expanded .x-tree-elbow-plus,
+.x-grid-tree-node-expanded .x-tree-elbow-end-plus {
+  font-size: 14px;
+  font-family: FontAwesome;
+  color: #1bbc9c;
+}
+.x-tree-icon {
+  width: 16px;
+  height: 32px;
+  line-height: 32px;
+  color: #1bbc9c;
+  font-size: 16px;
+}
+.x-tree-icon-leaf {
+  font-size: 16px;
+  font-family: FontAwesome;
+  color: #1bbc9c;
+}
+.x-tree-icon-parent {
+  font-size: 16px;
+  font-family: FontAwesome;
+  color: #1bbc9c;
+}
+.x-tree-icon-parent-expanded {
+  font-size: 16px;
+  font-family: FontAwesome;
+  color: #1bbc9c;
+}
+.x-tree-checkbox {
+  margin-right: 6px;
+  top: 7px;
+  width: 18px;
+  height: 18px;
+  font: 18px/1 ExtJS;
+  color: #1bbc9c;
+}
+.x-toast-light .x-window-header {
+  background-color: #1ed2af;
+}
+.x-toast-light .x-tool-img {
+  background-color: #1ed2af;
+}
+.x-keyboard-mode .x-btn-focus.x-btn-plain-toolbar-small {
+  background-image: none;
+  background-color: transparent;
+  -webkit-box-shadow: #1bbc9c 0 1px 0px 0 inset, #1bbc9c 0 -1px 0px 0 inset, #1bbc9c -1px 0 0px 0 inset, #1bbc9c 1px 0 0px 0 inset;
+  -moz-box-shadow: #1bbc9c 0 1px 0px 0 inset, #1bbc9c 0 -1px 0px 0 inset, #1bbc9c -1px 0 0px 0 inset, #1bbc9c 1px 0 0px 0 inset;
+  box-shadow: #1bbc9c 0 1px 0px 0 inset, #1bbc9c 0 -1px 0px 0 inset, #1bbc9c -1px 0 0px 0 inset, #1bbc9c 1px 0 0px 0 inset;
+}
+.x-keyboard-mode .x-btn-plain-toolbar-small.x-arrow-focus .x-btn-arrow-el {
+  border: 1px solid #1bbc9c;
+}
+.x-keyboard-mode .x-btn-focus.x-btn-over.x-btn-plain-toolbar-small {
+  -webkit-box-shadow: #1bbc9c 0 1px 0px 0 inset, #1bbc9c 0 -1px 0px 0 inset, #1bbc9c -1px 0 0px 0 inset, #1bbc9c 1px 0 0px 0 inset;
+  -moz-box-shadow: #1bbc9c 0 1px 0px 0 inset, #1bbc9c 0 -1px 0px 0 inset, #1bbc9c -1px 0 0px 0 inset, #1bbc9c 1px 0 0px 0 inset;
+  box-shadow: #1bbc9c 0 1px 0px 0 inset, #1bbc9c 0 -1px 0px 0 inset, #1bbc9c -1px 0 0px 0 inset, #1bbc9c 1px 0 0px 0 inset;
+}
+.x-keyboard-mode .x-btn-focus.x-btn-menu-active.x-btn-plain-toolbar-small,
+.x-keyboard-mode .x-btn-focus.x-btn-pressed.x-btn-plain-toolbar-small {
+  -webkit-box-shadow: #1bbc9c 0 1px 0px 0 inset, #1bbc9c 0 -1px 0px 0 inset, #1bbc9c -1px 0 0px 0 inset, #1bbc9c 1px 0 0px 0 inset;
+  -moz-box-shadow: #1bbc9c 0 1px 0px 0 inset, #1bbc9c 0 -1px 0px 0 inset, #1bbc9c -1px 0 0px 0 inset, #1bbc9c 1px 0 0px 0 inset;
+  box-shadow: #1bbc9c 0 1px 0px 0 inset, #1bbc9c 0 -1px 0px 0 inset, #1bbc9c -1px 0 0px 0 inset, #1bbc9c 1px 0 0px 0 inset;
+}
+.x-keyboard-mode .x-nbr .x-segmented-button-item.x-btn-focus.x-btn-plain-toolbar-small:after {
+  border-width: 1px;
+  border-color: #1bbc9c;
+}
+.x-keyboard-mode .x-nbr .x-segmented-button-item.x-btn-focus.x-btn-over.x-btn-plain-toolbar-small:after {
+  border-width: 1px;
+  border-color: #1bbc9c;
+}
+.x-keyboard-mode .x-nbr .x-segmented-button-item.x-btn-focus.x-btn-menu-active.x-btn-plain-toolbar-small:after,
+.x-keyboard-mode .x-nbr .x-segmented-button-item.x-btn-focus.x-btn-pressed.x-btn-plain-toolbar-small:after {
+  border-width: 1px;
+  border-color: #1bbc9c;
+}
+.x-keyboard-mode .x-btn-focus.x-btn-plain-toolbar-medium {
+  background-image: none;
+  background-color: transparent;
+  -webkit-box-shadow: #1bbc9c 0 1px 0px 0 inset, #1bbc9c 0 -1px 0px 0 inset, #1bbc9c -1px 0 0px 0 inset, #1bbc9c 1px 0 0px 0 inset;
+  -moz-box-shadow: #1bbc9c 0 1px 0px 0 inset, #1bbc9c 0 -1px 0px 0 inset, #1bbc9c -1px 0 0px 0 inset, #1bbc9c 1px 0 0px 0 inset;
+  box-shadow: #1bbc9c 0 1px 0px 0 inset, #1bbc9c 0 -1px 0px 0 inset, #1bbc9c -1px 0 0px 0 inset, #1bbc9c 1px 0 0px 0 inset;
+}
+.x-keyboard-mode .x-btn-plain-toolbar-medium.x-arrow-focus .x-btn-arrow-el {
+  border: 1px solid #1bbc9c;
+}
+.x-keyboard-mode .x-btn-focus.x-btn-over.x-btn-plain-toolbar-medium {
+  -webkit-box-shadow: #1bbc9c 0 1px 0px 0 inset, #1bbc9c 0 -1px 0px 0 inset, #1bbc9c -1px 0 0px 0 inset, #1bbc9c 1px 0 0px 0 inset;
+  -moz-box-shadow: #1bbc9c 0 1px 0px 0 inset, #1bbc9c 0 -1px 0px 0 inset, #1bbc9c -1px 0 0px 0 inset, #1bbc9c 1px 0 0px 0 inset;
+  box-shadow: #1bbc9c 0 1px 0px 0 inset, #1bbc9c 0 -1px 0px 0 inset, #1bbc9c -1px 0 0px 0 inset, #1bbc9c 1px 0 0px 0 inset;
+}
+.x-keyboard-mode .x-btn-focus.x-btn-menu-active.x-btn-plain-toolbar-medium,
+.x-keyboard-mode .x-btn-focus.x-btn-pressed.x-btn-plain-toolbar-medium {
+  -webkit-box-shadow: #1bbc9c 0 1px 0px 0 inset, #1bbc9c 0 -1px 0px 0 inset, #1bbc9c -1px 0 0px 0 inset, #1bbc9c 1px 0 0px 0 inset;
+  -moz-box-shadow: #1bbc9c 0 1px 0px 0 inset, #1bbc9c 0 -1px 0px 0 inset, #1bbc9c -1px 0 0px 0 inset, #1bbc9c 1px 0 0px 0 inset;
+  box-shadow: #1bbc9c 0 1px 0px 0 inset, #1bbc9c 0 -1px 0px 0 inset, #1bbc9c -1px 0 0px 0 inset, #1bbc9c 1px 0 0px 0 inset;
+}
+.x-keyboard-mode .x-nbr .x-segmented-button-item.x-btn-focus.x-btn-plain-toolbar-medium:after {
+  border-width: 1px;
+  border-color: #1bbc9c;
+}
+.x-keyboard-mode .x-nbr .x-segmented-button-item.x-btn-focus.x-btn-over.x-btn-plain-toolbar-medium:after {
+  border-width: 1px;
+  border-color: #1bbc9c;
+}
+.x-keyboard-mode .x-nbr .x-segmented-button-item.x-btn-focus.x-btn-menu-active.x-btn-plain-toolbar-medium:after,
+.x-keyboard-mode .x-nbr .x-segmented-button-item.x-btn-focus.x-btn-pressed.x-btn-plain-toolbar-medium:after {
+  border-width: 1px;
+  border-color: #1bbc9c;
+}
+.x-keyboard-mode .x-btn-focus.x-btn-plain-toolbar-large {
+  background-image: none;
+  background-color: transparent;
+  -webkit-box-shadow: #1bbc9c 0 1px 0px 0 inset, #1bbc9c 0 -1px 0px 0 inset, #1bbc9c -1px 0 0px 0 inset, #1bbc9c 1px 0 0px 0 inset;
+  -moz-box-shadow: #1bbc9c 0 1px 0px 0 inset, #1bbc9c 0 -1px 0px 0 inset, #1bbc9c -1px 0 0px 0 inset, #1bbc9c 1px 0 0px 0 inset;
+  box-shadow: #1bbc9c 0 1px 0px 0 inset, #1bbc9c 0 -1px 0px 0 inset, #1bbc9c -1px 0 0px 0 inset, #1bbc9c 1px 0 0px 0 inset;
+}
+.x-keyboard-mode .x-btn-plain-toolbar-large.x-arrow-focus .x-btn-arrow-el {
+  border: 1px solid #1bbc9c;
+}
+.x-keyboard-mode .x-btn-focus.x-btn-over.x-btn-plain-toolbar-large {
+  -webkit-box-shadow: #1bbc9c 0 1px 0px 0 inset, #1bbc9c 0 -1px 0px 0 inset, #1bbc9c -1px 0 0px 0 inset, #1bbc9c 1px 0 0px 0 inset;
+  -moz-box-shadow: #1bbc9c 0 1px 0px 0 inset, #1bbc9c 0 -1px 0px 0 inset, #1bbc9c -1px 0 0px 0 inset, #1bbc9c 1px 0 0px 0 inset;
+  box-shadow: #1bbc9c 0 1px 0px 0 inset, #1bbc9c 0 -1px 0px 0 inset, #1bbc9c -1px 0 0px 0 inset, #1bbc9c 1px 0 0px 0 inset;
+}
+.x-keyboard-mode .x-btn-focus.x-btn-menu-active.x-btn-plain-toolbar-large,
+.x-keyboard-mode .x-btn-focus.x-btn-pressed.x-btn-plain-toolbar-large {
+  -webkit-box-shadow: #1bbc9c 0 1px 0px 0 inset, #1bbc9c 0 -1px 0px 0 inset, #1bbc9c -1px 0 0px 0 inset, #1bbc9c 1px 0 0px 0 inset;
+  -moz-box-shadow: #1bbc9c 0 1px 0px 0 inset, #1bbc9c 0 -1px 0px 0 inset, #1bbc9c -1px 0 0px 0 inset, #1bbc9c 1px 0 0px 0 inset;
+  box-shadow: #1bbc9c 0 1px 0px 0 inset, #1bbc9c 0 -1px 0px 0 inset, #1bbc9c -1px 0 0px 0 inset, #1bbc9c 1px 0 0px 0 inset;
+}
+.x-keyboard-mode .x-nbr .x-segmented-button-item.x-btn-focus.x-btn-plain-toolbar-large:after {
+  border-width: 1px;
+  border-color: #1bbc9c;
+}
+.x-keyboard-mode .x-nbr .x-segmented-button-item.x-btn-focus.x-btn-over.x-btn-plain-toolbar-large:after {
+  border-width: 1px;
+  border-color: #1bbc9c;
+}
+.x-keyboard-mode .x-nbr .x-segmented-button-item.x-btn-focus.x-btn-menu-active.x-btn-plain-toolbar-large:after,
+.x-keyboard-mode .x-nbr .x-segmented-button-item.x-btn-focus.x-btn-pressed.x-btn-plain-toolbar-large:after {
+  border-width: 1px;
+  border-color: #1bbc9c;
+}
+.x-keyboard-mode .x-panel-header-title-light.x-title-focus {
+  outline: 1px solid #1bbc9c;
+  outline-offset: 2px;
+}
+.x-ie .x-keyboard-mode .x-panel-header-title-light.x-title-focus:after,
+.x-ie10p .x-keyboard-mode .x-panel-header-title-light.x-title-focus:after,
+.x-edge .x-keyboard-mode .x-panel-header-title-light.x-title-focus:after {
+  position: absolute;
+  content: ' ';
+  top: -3px;
+  right: -3px;
+  bottom: -3px;
+  left: -3px;
+  border: 1px solid #1bbc9c;
+  pointer-events: none;
+}
+.x-keyboard-mode .x-panel-header-light .x-tool-focus {
+  outline: 1px solid #1bbc9c;
+  outline-offset: 2px;
+}
+.x-ie .x-keyboard-mode .x-panel-header-light .x-tool-focus:after,
+.x-ie10p .x-keyboard-mode .x-panel-header-light .x-tool-focus:after,
+.x-edge .x-keyboard-mode .x-panel-header-light .x-tool-focus:after {
+  position: absolute;
+  content: ' ';
+  top: -3px;
+  right: -3px;
+  bottom: -3px;
+  left: -3px;
+  border: 1px solid #1bbc9c;
+  pointer-events: none;
+}
+.x-keyboard-mode .x-panel-header-title-light-framed.x-title-focus {
+  outline: 1px solid #1bbc9c;
+  outline-offset: 2px;
+}
+.x-ie .x-keyboard-mode .x-panel-header-title-light-framed.x-title-focus:after,
+.x-ie10p .x-keyboard-mode .x-panel-header-title-light-framed.x-title-focus:after,
+.x-edge .x-keyboard-mode .x-panel-header-title-light-framed.x-title-focus:after {
+  position: absolute;
+  content: ' ';
+  top: -3px;
+  right: -3px;
+  bottom: -3px;
+  left: -3px;
+  border: 1px solid #1bbc9c;
+  pointer-events: none;
+}
+.x-keyboard-mode .x-panel-header-light-framed .x-tool-focus {
+  outline: 1px solid #1bbc9c;
+  outline-offset: 2px;
+}
+.x-ie .x-keyboard-mode .x-panel-header-light-framed .x-tool-focus:after,
+.x-ie10p .x-keyboard-mode .x-panel-header-light-framed .x-tool-focus:after,
+.x-edge .x-keyboard-mode .x-panel-header-light-framed .x-tool-focus:after {
+  position: absolute;
+  content: ' ';
+  top: -3px;
+  right: -3px;
+  bottom: -3px;
+  left: -3px;
+  border: 1px solid #1bbc9c;
+  pointer-events: none;
+}

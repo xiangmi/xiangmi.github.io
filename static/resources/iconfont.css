@@ -1,0 +1,451 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('/js/lib/font/icomoon.eot?xr0w8f');
+  src:  url('/js/lib/font/icomoon.eot?xr0w8f#iefix') format('embedded-opentype'),
+      url('/js/lib/font/icomoon.ttf?xr0w8f') format('truetype'),
+      url('/js/lib/font/icomoon.woff?xr0w8f') format('woff'),
+      url('/js/lib/font/icomoon.svg?xr0w8f#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+[class^="icon-"]:before, [class*=" icon-"]:before{
+    font-family: 'icomoon' !important;
+    margin-right:6px;
+    font-size:20px;
+    vertical-align: sub;
+}
+/*顶部菜单*/
+.nav_menu .icon-analysis:before {
+  content: "\e967";
+}
+.nav_menu .icon-operate:before {
+  content: "\e972";
+}
+.nav_menu .icon-finance:before {
+  content: "\e931";
+}
+.nav_menu .icon-online:before {
+  content: "\e95a";
+}
+.nav_menu .icon-install:before {
+  content: "\e96f";
+}
+.nav_menu .icon-homepage:before {
+  content: "\e95f";
+}
+
+/*左侧菜单*/
+.icon-apply:before {
+  content: "\e96e";
+}
+.icon-role:before {
+  content: "\e948";
+}
+.icon-user:before {
+  content: "\e95b";
+}
+.icon-dept:before {
+  content: "\e945";
+}
+.icon-authorization:before {
+  content: "\e941";
+}
+.icon-dictionary:before {
+  content: "\e962";
+}
+.icon-params:before {
+  content: "\e932";
+}
+.icon-area:before {
+  content: "\e953";
+}
+.icon-logcog:before {
+  content: "\e957";
+}
+.icon-msg:before {
+  content: "\e96c";
+}
+.icon-app:before {
+  content: "\e92b";
+}
+.icon-psection:before {
+  content: "\e966";
+}
+.icon-park:before {
+  content: "\e963";
+}
+.icon-ppoint:before {
+  content: "\e965";
+}
+.icon-berth:before {
+  content: "\e930";
+}
+.icon-equip:before {
+  content: "\e95d";
+}
+.icon-rate:before {
+  content: "\e93d";
+}
+.icon-holiday:before {
+  content: "\e947";
+}
+.icon-shiftManage:before {
+  content: "\e92c";
+}
+.icon-networking:before {
+  content: "\e94f";
+}
+.icon-print:before {
+  content: "\e93b";
+}
+.icon-groups:before {
+  content: "\e93e";
+}
+.icon-employee:before {
+  content: "\e954";
+}
+.icon-schedule:before {
+  content: "\e951";
+}
+.icon-billingtest:before {
+  content: "\e946";
+}
+.icon-ruletest:before {
+  content: "\e943";
+}
+.icon-dataset:before {
+  content: "\e960";
+}
+.icon-visualization:before {
+  content: "\e961";
+}
+.icon-worksheet:before {
+  content: "\e93f";
+}
+.icon-servingcenter:before {
+  content: "\e94c";
+}
+.icon-taskcenter:before {
+  content: "\e955";
+}
+.icon-taskcfg:before {
+  content: "\e956";
+}
+.icon-alertcfg:before {
+  content: "\e971";
+}
+.icon-card:before {
+  content: "\e94b";
+}
+.icon-account:before {
+  content: "\e973";
+}
+.icon-order:before {
+  content: "\e93c";
+}
+.icon-activity:before {
+  content: "\e91c";
+}
+.icon-client:before {
+  content: "\e920";
+}
+/*财务管理*/
+.icon-pencil:before {
+  content: "\e92d";
+  color: #07c49e;
+}
+.icon-delete:before {
+  content: "\e958";
+  color: #219cea;
+}
+.icon-view:before {
+  content: "\e937";
+  color: #07c49e;
+}
+.icon-charge:before {
+  content: "\e939";
+  color: #fa7357;
+}
+.icon-file-text:before {
+  content: "\e933";
+  color: #dfac10;
+}
+/*账户管理*/
+.icon-cash:before {
+  content: "\e96b";
+  color: #5b635c;
+}
+.icon-wallet:before {
+  content: "\e952";
+  color: #5b635c;
+}
+.icon-alipay:before {
+  content: "\e974";
+  color: #5b635c;
+}
+.icon-wcapp:before {
+  content: "\e969";
+  color: #5b635c;
+}
+.icon-wcscan:before {
+  content: "\e96a";
+  color: #5b635c;
+}
+.icon-wcpublic:before {
+  content: "\e940";
+  color: #5b635c;
+}
+
+
+.icon-view-image:before {
+  content: "\e92a";
+  color: #07c19b;
+}
+.icon-freeze:before {
+  content: "\e91a";
+  color: #fe6f50;
+}
+.icon-public:before {
+  content: "\e91b";
+  color: #07c39d;
+}
+.icon-unfreeze:before {
+  content: "\e91d";
+  color: #07c49e;
+}
+.icon-chain-broken:before {
+  content: "\e91e";
+  color: #fe6f50;
+}
+.icon-info-view:before {/*客户详情*/
+  content: "\e91f";
+  color: #5b5b5b;
+}
+.icon-chain:before {
+  content: "\e921";
+  color: #07c39e;
+}
+.icon-sign-out:before {
+  content: "\e922";
+  color: #0d9cff;
+}
+.icon-unpublic:before {
+  content: "\e923";
+  color: #fe6f50;
+}
+.icon-arrow-up:before {
+  content: "\e925";
+  color: #0d9cfe;
+}
+.icon-exam:before {
+  content: "\e926";
+  color: #06b08e;
+}
+.icon-unexam:before {
+    content: "\e924";
+    color: #eb664a;
+}
+.icon-his:before {
+  content: "\e927";
+  color: #feb400;
+}
+.icon-screen-edit:before {
+  content: "\e928";
+  color: #3e78e4;
+}
+.icon-book:before {
+  content: "\e929";
+  color: #5f5f5f;
+}
+.icon-registered:before {
+  content: "\e919";
+  color: #07c39d;
+}
+.icon-24:before {/*标记*/
+  content: "\e92e";
+  color: #07c49e;
+}
+.icon-25:before {/*标记2*/
+  content: "\e92f";
+  color: #07c49e;
+}
+.icon-30:before {/*侧边栏收缩*/
+  content: "\e934";
+  color: #07c49e;
+}
+.icon-311:before {/*侧边栏展开*/
+  content: "\e935";
+  color: #07c49e;
+}
+.icon-32:before {/*测试*/
+  content: "\e936";
+  color: #20c1dd;
+}
+.icon-34:before {/*车牌*/
+  content: "\e938";
+  color: #4571ff;
+}
+.icon-LOGO:before {
+  content: "\e93a";
+  color: #07c49e;
+}
+.icon-411:before {/*关闭*/
+  content: "\e942";
+  color: #858585;
+}
+.icon-43:before {
+  content: "\e944";
+  color: #259ff5;
+}
+.icon-47:before {/*缴费次数*/
+  content: "\e949";
+  color: #43b880;
+}
+.icon-48:before {/*今日收费*/
+  content: "\e94a";
+  color: #27b598;
+}
+.icon-511:before {/*空余泊位*/
+  content: "\e94d";
+  color: #f8b618;
+}
+.icon-52:before {/*扩展放大*/
+  content: "\e94e";
+  color: #07c49e;
+}
+.icon-54:before {/*拍照*/
+  content: "\e950";
+  color: #00c8cf;
+}
+.icon-62:before {/*坐标点 黄*/
+  content: "\e959";
+  color: #fdd700;
+}
+.icon-90:before {/*坐标点 绿*/
+  content: "\e975";
+  color: #07c49e;
+}
+.icon-43:before {/*坐标点 蓝*/
+  content: "\e944";
+  color: #259ff5;
+}
+.icon-65:before {/*收费人员*/
+  content: "\e95c";
+  color: #5897ee;
+}
+.icon-67:before {/*手机*/
+  content: "\e95e";
+  color: #f2a638;
+}
+.icon-73:before {/*停车次数*/
+  content: "\e964";
+  color: #7580e6;
+}
+/*统计分析*/
+.analysisTop  .x-tool-collapse-top:before {
+    content: "\f0d8";
+    color: #00b5af;
+    font-size:20px;
+    vertical-align: middle;
+}
+.analysisTop  .x-tool-expand-bottom:before {
+    content: "\f0d7";
+    color: #00b5af;
+    font-size:20px;
+    vertical-align: middle;
+}
+.icon-line:before {
+  content: "\e906";
+  color: #00b5af;
+}
+.icon-POS:before {
+  content: "\e900";
+  color: #07c49e;
+}
+.icon-uniE901:before {/*财务*/
+  content: "\e901";
+  color: #07c49e;
+}
+.icon-1:before {/*财务流水*/
+  content: "\e902";
+  color: #07c49e;
+}
+.icon-2:before {/*财务渠道*/
+  content: "\e903";
+  color: #07c49e;
+}
+.icon-3:before {/*分析决策*/
+  content: "\e904";
+  color: #07c39e;
+}
+.icon-4:before {/*交易工单*/
+  content: "\e905";
+  color: #07c49e;
+}
+.icon-5:before {/*历史工单*/
+  content: "\e907";
+  color: #07c49e;
+}
+.icon-6:before {/*历史停车订单*/
+  content: "\e908";
+  color: #07c49e;
+}
+.icon-7:before {/*统计分析默认图*/
+  content: "\e909";
+  color: #07c49e;
+}
+.icon-8:before {/*人员考勤报表*/
+  content: "\e90a";
+  color: #07c49e;
+}
+.icon-10:before {/*设备*/
+  content: "\e90b";
+  color: #07c49e;
+}
+.icon-11:before {/*设备报表*/
+  content: "\e90c";
+  color: #07c49e;
+}
+.icon-12:before {/*收费员*/
+  content: "\e90d";
+  color: #07c49e;
+}
+.icon-13:before {/*收费员报表*/
+  content: "\e90e";
+  color: #07c49e;
+}
+.icon-17:before {/*停车厂商*/
+  content: "\e912";
+  color: #07c49e;
+}
+.icon-18:before {/*停车次数报表*/
+  content: "\e913";
+  color: #07c49e;
+}
+.icon-19:before {/*停车点*/
+  content: "\e914";
+  color: #07c49e;
+}
+.icon-20:before {/*停车指数*/
+  content: "\e915";
+  color: #07c49e;
+}
+.icon-21:before {/*在停订单*/
+  content: "\e917";
+  color: #07c49e;
+}
+.icon-22:before {/*账户统计报表*/
+  content: "\e918";
+  color: #07c49e;
+}

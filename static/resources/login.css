@@ -1,0 +1,320 @@
+::-webkit-input-placeholder {
+    font-size: 14px;
+    font-style: normal;
+    line-height: 24px;
+    color: #B1B6BA;
+}
+
+::-moz-placeholder {
+    font-size: 14px;
+    font-style: normal;
+    line-height: 24px;
+}
+
+input[type="password"]::-webkit-input-placeholder {
+    color: #B1B6BA;
+}
+
+input[type="password"]::-moz-placeholder {
+    color: #B1B6BA;
+}
+
+button, input {
+    font-family: inherit;
+    font-size: 100%;
+    margin: 0;
+    line-height: normal
+}
+
+button, html input[type=button] {
+    -webkit-appearance: button;
+    cursor: pointer
+}
+
+form {
+    margin: 0 0 10px
+}
+
+fieldset {
+    padding: 0;
+    margin: 0;
+    border: 0
+}
+
+form label {
+    display: block;
+    margin-bottom: 5px
+}
+
+input[type=text], input[type=password], input[type=number] {
+    display: inline-block;
+    padding: 7px;
+    font-size: 14px;
+    line-height: 16px;
+    color: #333;
+    vertical-align: middle
+}
+
+input[type=text], input[type=password], input[type=range] {
+    width: 210px
+}
+
+input[type=range] {
+    -webkit-appearance: none;
+    background: #eee;
+    margin: 0 5px 0 0;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    vertical-align: middle
+}
+
+input[type=text], input[type=password], input[type=number] {
+    border: 0;
+    border: 2px solid #cbcad8;
+    background: #fff;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    -webkit-appearance: none
+}
+
+input[type=text]:focus, input[type=password]:focus, input[type=number]:focus {
+    border-color: #57b382;
+    outline: 0
+}
+
+input[type=text].error, input[type=password].error, input[type=number].error {
+    border-color: #b94a48
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    min-width: 1000px;
+    min-height: 500px;
+}
+
+.container {
+    width: 100%;
+    margin: auto;
+    height: 100%;
+}
+
+.row {
+    height: 100%;
+}
+
+#header {
+    background-color: transparent;
+    border-bottom: 1px solid #efefef;
+    padding: 5px 15px;
+}
+
+#header .logo {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-image: url('/resources/img/login.png');
+    background-size: contain;
+}
+
+#header .title {
+    display: inline-block;
+    /* border: 1px solid #000000; */
+    line-height: 55px;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    font-size: 22px;
+    margin-left: 10px;
+    color: #1abd9d;
+}
+
+.column {
+    width: 50%;
+    float: left;
+    height: 100%;
+}
+
+.column.column-form {
+    background: #F5F5F5;
+    display: table;
+}
+
+.column.column-banner {
+    background: #3f3d49;
+    display: table;
+}
+
+.form-container {
+    display: table-row;
+}
+
+.form-inner {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.login-form {
+    width: 280px;
+    margin: 0 auto;
+    padding: 10px;
+    margin-top: -50px;
+}
+
+.login-footer {
+    margin: 0 auto;
+    text-align: center;
+    line-height: 1.2;
+    font-size: 12px;
+    color: #626466;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    font-size: 14px;
+    color: #666;
+    font-weight: bold;
+}
+
+.form-group input {
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    border-width: 1px;
+    line-height: 24px;
+    border-color: #DADCDE;
+    margin: 11px 0;
+}
+
+.form-group .alert-error {
+    border-radius: 3px;
+    border: 1px solid #E67373;
+    background: #fef5f5;
+    color: #B33636;
+    font-size: 14px;
+    padding: 7px 12px 7px;
+    box-shadow: 0 1px 2px 0 rgba(73, 12, 12, 0.04), 0 2px 4px 0 rgba(87, 18, 18, 0.08);
+}
+
+.form-group .alert-error:before {
+    content: "";
+    border-radius: 50%;
+    color: #fff;
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+    background: url(/resources/img/icon-problem.svg) center center no-repeat;
+    margin-top: -2px;
+    margin-right: 5px;
+}
+
+.form-group .btn-submit:hover, .form-group .btn-submit {
+    color: #fff;
+    background: #57b382;
+    border-bottom-color: #4ba575;
+    font-size: 14px;
+    padding: 10px 18px;
+    border-bottom: none;
+    min-width: 106px;
+    border: 0;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.form-group.submit-row {
+    margin-top: 30px;
+}
+
+.banner-container {
+    display: table-row;
+}
+
+.banner-inner {
+    width: 500px;
+    margin: 0 auto;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.banner-inner .banner-slogan {
+    text-align: center;
+    color: #FEFEFE;
+    margin-bottom: 40px;
+}
+
+.banner-inner .banner-slogan h3 {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.banner-inner .banner-slogan p {
+    font-size: 18px;
+}
+
+.banner-inner .banner {
+    margin-top: 8%;
+    margin-bottom: 8%;
+    min-height: 20vw;
+    background: url(/resources/img/subject__banner.png) no-repeat 50% 50%;
+    background-size: 100% 100%;
+    width: 345px;
+    height: 310px;
+    margin: 0 auto;
+}
+
+.banner-inner .more-link {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.banner-inner .more-link a {
+    text-decoration: none;
+    padding: 7px 16px;
+    margin: 0 3px 0 0;
+    font-size: 12px;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    background-color: #eee;
+    background-color: rgba(238, 238, 238, 0.13);
+    color: #f3f3f3;
+    border-color: #eee;
+    border-radius: 3px;
+}
+
+.banner-inner .more-link a:hover {
+    background-color: #eee;
+    background-color: rgba(238, 238, 238, 0.33);
+    color: #ececec;
+    border-color: #eee;
+}
+
+.verify-item {
+    overflow: hidden;
+}
+
+.verify-input {
+    float: left;
+    width: 80px !important;
+}
+
+.verify-img {
+    border: 1px solid #efefef;
+}
+
+.verify-item a {
+    line-height: 40px;
+    display: inline-block;
+    margin: 11px 0 0 15px;
+    font-size: 14px;
+}

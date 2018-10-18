@@ -1,0 +1,107 @@
+/*自定义图标*/
+.fa{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+    vertical-align: text-bottom;
+}
+.fa-homepage{
+    background: url(icon/homepage.png) no-repeat center center;
+}
+.fa-online{
+    background: url(icon/online.png) no-repeat center center;
+}
+.fa-operate{
+    background: url(icon/operate.png) no-repeat center center;
+}
+.fa-finance{
+    background: url(icon/finance.png) no-repeat center center;
+}
+.fa-analysis{
+    background: url(icon/analysis.png) no-repeat center center;
+}
+.fa-install{
+    background: url(icon/install.png) no-repeat center center;
+}
+.fa-sys{
+    background: url(icon/sys.png) no-repeat center center;
+}
+.fa-role{
+    background: url(icon/role.png) no-repeat center center;
+}
+.fa-subscriber{
+    background: url(icon/user.png) no-repeat center center;
+}
+.fa-permission{
+    background: url(icon/permission.png) no-repeat center center;
+}
+.fa-department{
+    background: url(icon/department.png) no-repeat center center;
+}
+.fa-logcog{
+    background: url(icon/logcog.png) no-repeat center center;
+}
+.fa-dictionary{
+    background: url(icon/dictionary.png) no-repeat center center;
+}
+.fa-params{
+    background: url(icon/params.png) no-repeat center center;
+}
+.fa-area{
+    background: url(icon/area.png) no-repeat center center;
+}
+.fa-charge{
+    background: url(icon/charge.png) no-repeat center center;
+}
+.fa-parkSection{
+    background: url(icon/parkSection.png) no-repeat center center;
+}
+.fa-parkPoint{
+    background: url(icon/parkPoint.png) no-repeat center center;
+}
+.fa-berth{
+    background: url(icon/berth.png) no-repeat center center;
+}
+.fa-park{
+    background: url(icon/park.png) no-repeat center center;
+}
+.fa-equipment{
+    background: url(icon/equipment.png) no-repeat center center;
+}
+.fa-rate{
+    background: url(icon/rate.png) no-repeat center center;
+}
+.fa-holiday{
+    background: url(icon/holiday.png) no-repeat center center;
+}
+.fa-shiftManage{
+    background: url(icon/shiftManage.png) no-repeat center center;
+}
+.fa-people{
+    background: url(icon/people.png) no-repeat center center;
+}
+.fa-groups{
+    background: url(icon/group.png) no-repeat center center;
+}
+.fa-employee{
+    background: url(icon/employee.png) no-repeat center center;
+}
+.fa-schedule{
+    background: url(icon/schedule.png) no-repeat center center;
+}
+.fa-specialties{
+    background: url(icon/specialties.png) no-repeat center center;
+}
+.fa-billingTest{
+    background: url(icon/billingTest.png) no-repeat center center;
+}
+.fa-ruleTest{
+    background: url(icon/ruleTest.png) no-repeat center center;
+}
+.fa-dataSet{
+    background: url(icon/dataSet.png) no-repeat center center;
+}
+.fa-visualization{
+    background: url(icon/visualization.png) no-repeat center center;
+}

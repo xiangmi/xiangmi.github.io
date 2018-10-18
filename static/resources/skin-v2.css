@@ -1,0 +1,316 @@
+@import "app.css";
+@import "iconfont.css";
+@import "style-v2.1.css";
+@import "style-v2.2.css";
+
+.top_bgcolor_state0 {
+  background-color: #2c303c;
+}
+.left_menu {
+  background-image: url(img/left2.png);
+}
+.right_arrow {
+  background-image: url(img/right2.png);
+  left: 0px !important;
+}
+.module-nav {
+  border-right: 1px solid #273339;
+  background-color: #495063;
+}
+/*.module-nav>.x-box-inner{
+  top:32px !important;
+}*/
+.module-item {
+  border: none;
+  background-color: #273339;
+  border-top: 1px solid #222e33;
+  height: 50px;
+  font-size: 12px;
+  color: #999;
+}
+.selected {
+  background-color: #3c4258;
+  border: 1px solid #3c4258;
+}
+.module-nav .x-accordion-item .x-accordion-body {
+  background-color: #333743 !important;
+}
+.module-nav .x-accordion-item .x-accordion-hd {
+  background-color: #42475a !important;
+  height: 50px;
+  cursor: pointer;
+  border-bottom: 1px solid transparent;
+  padding-left: 38px;
+}
+
+.module-nav .x-title-item {
+  color: #ffffff;
+}
+.item_active {
+  background-color: #3c4258;
+  font-weight: bold;
+  color: #07c49e!important;
+}
+.left_item {
+  /*border-bottom: 1px solid rgba(53, 62, 66, 0.6);*/
+  border-bottom:none;
+  font-size: 12px;
+  color: #efefef;
+  cursor: pointer;
+}
+.left_item:hover,.top_items:hover{
+    background-color: #3c4258;
+}
+.nav_menu .selected .cache3,.selected [class^="icon-"]:before,.selected [class*=" icon-"]:before{
+    color: #07c49e !important;
+}
+.ux-window .x-docked-bottom .x-btn{
+    border-radius:6px !important;
+}
+.searchBtn{
+    min-width:80px !important;
+}
+
+.x-btn,.x-btn.x-btn-over{
+    background-color:#1ab394 !important;
+    border-color:#1ab394 !important;
+    border-radius:0;
+}
+.x-btn.x-btn-over{
+    opacity:0.7;
+}
+.x-btn .x-btn-inner,
+.x-btn .x-btn-icon-el{
+    color:#fff !important;
+}
+.ux-messageBox .x-box-target a:nth-child(3),
+.ux-messageBox .x-box-target a:nth-child(4),
+.ux-cancelbtn.x-btn,.ux-window .ux-grid .x-docked-bottom .x-btn,
+.ux-window .x-docked-bottom .ux-cancelbtn.x-btn{
+    background-color:#fff !important;
+    border-color:#d9d9d9 !important;
+}
+.ux-messageBox .x-box-target a:nth-child(3),
+.ux-messageBox .x-box-target a:nth-child(4),
+.ux-window .ux-cancelbtn.x-btn,.ux-window .ux-grid .x-docked-bottom .x-btn,
+.ux-window .x-docked-bottom .ux-cancelbtn.x-btn{
+    border-radius:6px !important;
+}
+.lotTool .x-toolbar-item.x-btn,
+.x-grid .x-toolbar-docked-bottom .x-btn,
+.x-btn.x-row-editor-cancel-button{
+    background-color:#fff !important;
+    border-color:#d9d9d9 !important;
+    border-radius:0 !important;
+}
+.lotTool .x-toolbar-item.x-btn .x-btn-icon-el,
+.x-grid .x-toolbar-docked-bottom .x-btn .x-btn-icon-el{
+    color:#919191 !important;
+}
+.ux-form .displayField .ux-cancelbtn .x-btn-inner,
+.ux-messageBox .x-box-target a:nth-child(3) .x-btn-inner,
+.ux-messageBox .x-box-target a:nth-child(4) .x-btn-inner,
+.ux-cancelbtn .x-btn-inner,
+.ux-window .x-docked-bottom .ux-cancelbtn .x-btn-inner,
+.x-btn.x-row-editor-cancel-button .x-btn-inner{
+    color:#333 !important;
+}
+.ux-window.carWin .x-btn,.ux-window.carWin .ux-cancelbtn.x-btn,
+.x-form-fieldcontainer .ux-cancelbtn.x-btn,
+.ux-window .ux-grid .x-docked-bottom .x-btn,
+.ux-rpt .ux-cancelbtn.x-btn{
+    border-radius:0 !important;
+}
+.ux-cancelbtn.x-btn.x-btn-disabled.x-btn-default-small{
+    border:1px solid #d9d9d9;
+    background-color:#f9f9f9 !important;
+    opacity:0.4;
+}
+.ux-cancelbtn.x-btn-over .x-btn-inner{
+    color:rgba(3,3,3,0.7);
+}
+.ux-window .x-toolbar-footer .x-toolbar-item{
+    border-radius:6px !important;
+}
+.x-segmented-button .x-btn{
+    border-color:#d9d9d9 !important;
+    background-color:#f7f7f7 !important;
+}
+.x-segmented-button .x-btn .x-btn-inner{
+    color:#333 !important;
+}
+.x-btn-pressed.x-segmented-button-item{
+    /*background-color:#1cbf9e !important;*/
+    background-color:#fff !important;
+}
+.x-btn-pressed.x-segmented-button-item .x-btn-inner{
+    color:#1cbf9e !important;
+}
+.x-btn-pressed.x-segmented-button-item.x-btn-over{
+    opacity:1;
+}
+.x-tip .x-title-item{
+    color:#f0f0f0;
+}
+/**首页**/
+.center_area > .x-container >  .x-container > .x-box-inner > .x-box-target > .x-panel > .x-panel-bodyWrap > .x-panel-body >.x-box-inner > .x-box-target > .ux-rpt .ux-form .x-panel-header-default{
+  background-color:#fff !important;
+}
+.ux-rpt .ux-form .x-panel-body{
+  border-top:none;
+}
+.center_area > .x-container >  .x-container > .x-box-inner > .x-box-target > .x-panel > .x-panel-bodyWrap > .x-panel-body{
+  background:#f1f2f6;
+  border:none;
+}
+.ux-rpt > .x-panel-bodyWrap > .x-panel-body-default{
+    background:#f1f2f6 !important;
+}
+.ih-item.square.effect11.colored .info{
+    background:#16d2ae !important;
+}
+.ih-item.square.effect11.colored .info h3{
+    background:#07c49e !important;
+}
+/**panel**/
+.btnStyle{
+    background-color:#f1f2f6 !important;
+}
+.ux-grid .x-toolbar-default:first-child{
+    background-color:#f1f2f6 !important;
+}
+.ux-window .x-window-header-default{
+    background-color:#f1f2f6 !important;
+    padding:13px 14px !important;
+}
+.ux-tree .x-grid-body,
+.ux-tree .x-grid-body .x-grid-item{
+    background-color:#eaedf2;
+}
+.x-boundlist.ux-tree .x-grid-body,
+.x-boundlist.ux-tree .x-grid-body .x-grid-item{
+    background-color:#fff;
+}
+.ux-tree .x-toolbar-default,.ux-tree .list-ul{
+    background-color:#d9dee4 !important;
+}
+.searchPanel>.x-panel-header-default{
+    background-color:#f1f2f6 !important;
+}
+.defalutCenter ,div.x-border-layout-ct{
+    background-color:#fff !important;
+}
+.defalutCenter .ux-form .x-panel-header-default{
+    /*padding:8px 15px;*/
+    background-color:#f1f2f6 !important;
+}
+.defalutCenter .ux-rpt .ux-form .x-panel-body{
+    border-top:1px solid rgba(228, 228, 228, 1) !important;
+}
+.ux-tree .x-grid-item-selected{
+    background-color:#fff !important;
+}
+
+.x-boundlist.ux-tree .x-grid-body .x-grid-item-selected{
+    background-color:#e6f2ef !important;
+}
+/**重写placeholder字体颜色**/
+::-webkit-input-placeholder {
+    color:#909090;
+}
+:-moz-placeholder {
+    color:#909090;
+}
+::-moz-placeholder {
+    color:#909090;
+}
+:-ms-input-placeholder {
+    color:#909090;
+}
+.x-form-empty-field-default + .x-placeholder-label-default{
+    color:#909090;
+}
+.x-form-trigger-wrap-default.x-form-trigger-wrap-focus {
+    border-color: #1eceab;
+}
+.x-form-trigger-wrap-default.x-form-trigger-wrap-focus .x-form-trigger-default{
+    color:#1bbc9c;
+}
+.x-form-trigger-wrap-default.x-form-trigger-wrap-invalid .x-form-trigger-default{
+    color:#ff7477;
+}
+.x-form-invalid-under-default{
+    color:#ff7477 !important;
+}
+.x-tab.x-tab-active.x-tab-default .x-tab-inner-default{
+    color:#1ab394 !important;
+}
+/*滚动条 start*/
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+    background-color: #F5F5F5;
+}
+/*定义滚动条轨道 内阴影+圆角*/
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.1);
+    background: #fff ;
+}
+/*定义滑块 内阴影+圆角*/
+::-webkit-scrollbar-thumb {
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.1);
+    background-color:rgba(0, 0, 0, 0.2);
+}
+::-webkit-scrollbar-thumb:hover {
+    border-radius: 8px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.1);
+    background-color:rgba(0, 0, 0, 0.4);
+}
+/**搜索框title override**/
+.searchPanel .x-panel-header{
+    padding:8px 12px;
+    padding-right:45px;
+    height:50px !important;
+}
+.searchPanel .x-tool.x-box-item{
+    left:auto !important;
+    right:-33px !important;
+}
+
+/**财务管理**/
+.winFieldSet .x-form-display-field-default,
+.winFieldSet .x-form-item-body-default{
+    min-height:20px !important;
+}
+.payType_bg:before{
+    display:inline-block;
+    font-size:18px;
+    margin-top:7px;
+}
+.mergeGrid .ux-table td .bd-icon,
+.x-fa.fa-pencil{
+    color:#38BCA2;
+}
+.tip-status{
+    display:inline-block;
+    width:0;
+    height:0;
+    border:3px solid green;
+    border-radius:50%;
+    margin-right:8px;
+    position:relative;
+    top:-2px;
+}
+a[href]{
+    color:#23B9f2;
+}
+
+.warmbar,.warning{
+    background-color:#f0f1f5 !important;
+}
+.ux-rpt .ux-grid .x-action-col-cell.x-grid-cell-last .x-action-col-icon{
+    margin-left:8px;
+}
+/**在线监测**/
+.midium
